@@ -25,12 +25,14 @@ Para utilizar este projeto de forma local, siga as instruções abaixo:
 Para utilizar o ChatGPT basta incluir `!` antes das suas mensagens:
 
 ![enter image description here](https://i.imgur.com/WIW9PU0.jpg)
+
 Essa feature funciona tanto em conversas individuais quanto em grupos, desde que você esteja presente neles. Ele pode ser utilizado por todas as pessoas participantes da conversa, permitindo que cada uma delas faça perguntas e obtenha respostas do modelo.
 
 ### Transcrição de áudios:
 Para utilizar a transcrição de áudios basta dizer a palavra-chave **`Transcreva`** durante sua gravação:
 
 ![enter image description here](https://i.imgur.com/MNIt4wn.jpg)
+
 Essa feature, do mesmo modo que a anterior, funciona em conversas individuais e em grupos que você esteja incluso.
 
 ## Contribuição
