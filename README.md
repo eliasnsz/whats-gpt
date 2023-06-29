@@ -1,9 +1,7 @@
 
 # Título do Repositório
 
-Este projeto permite o uso do ChatGPT, um modelo de linguagem avançado baseado em inteligência artificial, diretamente no WhatsApp. Além disso, também disponibiliza o recurso de transcrição de áudios.
-
-Este projeto faz consumo da API da OpenAI, utilizando os modelos GPT e Whisper.
+Este projeto permite o uso do ChatGPT, um modelo de linguagem avançado baseado em inteligência artificial, diretamente no WhatsApp. Além disso, também disponibiliza o recurso de transcrição de áudios, fazendo consumo da API da OpenAI, utilizando os modelos GPT e Whisper.
 
 ## Instalação
 
